@@ -1,0 +1,4 @@
+identity:
+  password: <twitch oauth token>
+  username: < Bot name>
+channels: <List of channels that will be using this bot>

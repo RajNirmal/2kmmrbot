@@ -1,0 +1,26 @@
+{
+  "name": "2kmmrbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajNirmal/2kmmrbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajNirmal/2kmmrbot/issues"
+  },
+  "homepage": "https://github.com/RajNirmal/2kmmrbot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "rmi": "0.0.1",
+    "tmi.js": "^1.8.5",
+    "yaml": "^1.10.2"
+  }
+}
